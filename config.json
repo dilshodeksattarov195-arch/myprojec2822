@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseperify",
+        "uuid": 16333736,
+        "checksum": "eyutzm"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
